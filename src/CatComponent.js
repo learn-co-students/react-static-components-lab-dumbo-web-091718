@@ -9,4 +9,4 @@ import React, { Component } from 'react';
     );
   }
 }
-export default  CatComponent;
+export default CatComponent;
